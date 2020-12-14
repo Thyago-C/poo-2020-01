@@ -1,0 +1,5 @@
+pessoa\Pessoa.class
+pessoa\Identidade.class
+pessoa\Passaporte.class
+pessoa\Residencia.class
+pessoa\TestaPessoa.class
